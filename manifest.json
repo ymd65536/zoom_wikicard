@@ -1,0 +1,11 @@
+{
+  "name": "Zoom Wikicard",
+  "description": "Zoom Wikicard",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting", "storage"],
+  "options_page": "options.html",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
